@@ -1,3 +1,3 @@
 # Decision_Tree
 The trained Decision Tree model
-(image.png)
+![Decision Tree](image.png)
