@@ -13,7 +13,7 @@ correct prediction=69+38=107
 
 Accuracy=107/114​=0.9386
 
-#569 → complete dataset
+*569 → complete dataset
 #455 → training samples
 #114 → testing samples
 #107 → correctly classified test samples
